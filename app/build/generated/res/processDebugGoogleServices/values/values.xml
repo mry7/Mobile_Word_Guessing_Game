@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">289702655961</string>
+    <string name="google_api_key" translatable="false">AIzaSyCweqgvtrD57FN2059piMEs9TwAjqJ-j_Y</string>
+    <string name="google_app_id" translatable="false">1:289702655961:android:a2b9416673110445e64bc8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCweqgvtrD57FN2059piMEs9TwAjqJ-j_Y</string>
+    <string name="google_storage_bucket" translatable="false">yazlabproje2-34673.appspot.com</string>
+    <string name="project_id" translatable="false">yazlabproje2-34673</string>
+</resources>
