@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.YazlabProjesi"
+        tools:targetApi="31">
+        <activity
+            android:name=".kanal_sabitsiz_6"
+            android:exported="false"
+            android:label="@string/title_activity_kanal_sabitsiz6"
+            android:theme="@style/Theme.YazlabProjesi" />
+        <activity
+            android:name=".harf_sabitsiz_6"
+            android:exported="false"
+            android:label="@string/title_activity_harf_sabitsiz6"
+            android:theme="@style/Theme.YazlabProjesi" />
+        <activity
+            android:name=".SunucuİstemciActivity"
+            android:exported="false"
+            android:label="@string/title_activity_sunucuİstemci"
+            android:theme="@style/Theme.YazlabProjesi" />
+        <activity
+            android:name=".OdaActivity"
+            android:exported="false"
+            android:label="@string/title_activity_oda"
+            android:theme="@style/Theme.YazlabProjesi" />
+        <activity
+            android:name=".OyunActivity"
+            android:exported="false"
+            android:label="@string/title_activity_oyun"
+            android:theme="@style/Theme.YazlabProjesi" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.YazlabProjesi">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

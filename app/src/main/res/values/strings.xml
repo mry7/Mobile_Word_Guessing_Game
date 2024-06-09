@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">yazlabProjesi</string>
+    <string name="title_activity_oyun">Oyun</string>
+    <string name="title_activity_oda">OdaActivity</string>
+    <string name="title_activity_sunucuİstemci">SunucuİstemciActivity</string>
+    <string name="title_activity_harf_sabitsiz6">harf_sabitsiz_6</string>
+    <string name="title_activity_kanal_sabitsiz6">kanal_sabitsiz_6</string>
+</resources>
